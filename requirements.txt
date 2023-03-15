@@ -1,0 +1,10 @@
+# Project Specific
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyAudio==0.2.13
+
+# Pedantry
+black==23.1.0
+
+# Env Variables
+python-decouple==3.8
