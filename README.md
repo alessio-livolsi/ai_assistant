@@ -17,7 +17,7 @@ including speech-to-text (STT), natural language processing (NLP).
 - The script uses pyttsx3 package to covert the response and plays it back through the user's speakers
 
 ## Prerequisites
-- I'm running MacOS Vetntura 13.1 and to ensure the audio worked install `brew install portaudio`
+- I'm running MacOS Ventura 13.1 and to ensure the audio worked install `brew install portaudio`
 
 
 ## Enjoy 🙃
