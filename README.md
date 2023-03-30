@@ -4,7 +4,6 @@
 
 This script allows you to utilize OpenAI's ChatGPT and Whisper APIs in Python to integrate several AI services, 
 including speech-to-text (STT), natural language processing (NLP).  
-To speed up the script I added some multi-threading.
 
 ## Get Started
 - Download or clone the repo
